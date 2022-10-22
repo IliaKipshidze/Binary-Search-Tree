@@ -1,0 +1,2 @@
+C:\Users\comp\Desktop\ილია\TSU II semester\მონაცემთა სტრუქტურები\დავალებები\BST\Debug\BST.exe
+C:\Users\comp\Desktop\ილია\TSU II semester\მონაცემთა სტრუქტურები\დავალებები\BST\Debug\BST.pdb
